@@ -1,0 +1,32 @@
+body 
+{
+    font-size: 30px;
+    background-color: burlywood;
+    text-align: center;
+    align-content: baseline;
+    background-image: url(../imagenes/playaindex.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#Gijon  {
+border-color: black;
+border-style: solid;
+margin-left: 30%;
+margin-right: 30%;
+padding-bottom: 10px;
+padding-top: 10px;
+border-radius: 20px;
+background-color: #ff0000;
+}
+
+#Laboral {
+    border-color: black;
+border-style: solid;
+margin-left: 30%;
+margin-right: 30%;
+padding-bottom: 10px;
+padding-top: 10px;
+border-radius: 20px;
+background-color: #ff0000;border-color: black;
+
+}
