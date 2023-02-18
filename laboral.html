@@ -105,12 +105,33 @@
 
         <section id="CitaPrevia">
             <article id="textocita">
-                Pedir cita previa
+                Pedir cita previa para conserjería
             </article>
+            <br>
 <form action="">
+    <span>Nombre:</span>
     <input type="text" name="Nombre" placeholder="Nombre" size="10" height="100px"><br><br>
+    <span>Apellidos:</span>
     <input type="text" name="Apellidos" placeholder="Apellidos" size="20"><br><br>
-    <input type="email" name="email" placeholder="user@email.com">
+    <span>Email:</span>
+    <input type="email" name="email" placeholder="user@email.com"><br><br>
+    <span>Dia:</span>
+    <select id="dia" name="dia">
+        <option value="Lunes">Lunes</option>
+        <option value="Martes">Martes</option>
+        <option value="Miercoles">Miercoles</option>
+        <option value="Jueves">Jueves</option>
+        <option value="Viernes">Viernes</option>
+        <option value="Sabado">Sabado</option>
+        <option value="Domingo">Domingo</option>
+      </select><br><br>
+      <input type="radio" id="mañana" name="horario" value="mañana">
+      <label for="mañana">Mañana</label>
+      <input type="radio" id="tarde" name="horario" value="tarde">
+      <label for="tarde">Tarde</label><br><br>
+      <span>Describa brevemente el motivo de su visita:</span>
+      <input type="textbox" name="Motivo"><br><br>
+      <input type="submit" name="enviar">
 </form>
 
 
