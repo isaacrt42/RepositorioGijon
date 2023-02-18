@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.TextoPrincipal {
+    font-weight: 500;
+    font-size: 27px;
+    color: white;
+    border: solid ;
+    border-color: rgba(255, 255, 255, 0.299);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 10%;  
+    border-radius: 10px;
+    opacity: .6;
+    background-color: black;
+    margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url(../imagenes/laboral.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+#titulo {
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    height: 10%;
+    font-size: 90px;
+    text-align: center;
+    background-color: rgba(245, 49, 49, 0.457);
+    border-radius: 10px;
+}
