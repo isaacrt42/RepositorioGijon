@@ -130,3 +130,15 @@ margin-left: 1px;
     border-width: 1px;
     background-color: rgb(43, 0, 255);
 }
+
+#Escudo {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Escudo_gijon_color.svg/1200px-Escudo_gijon_color.svg.png);
+    background-repeat: no-repeat;
+    background-size:10%;
+}
+
+#TextoEscudo {
+    margin-left: 10%;
+    font-size: 27px;
+    font-family: 'Times New Roman', Times, serif;
+}
