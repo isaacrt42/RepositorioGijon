@@ -57,14 +57,14 @@ background-color: bisque;
     position: relative;
 }
 #cajaIzq {
-    top: 64%;
+    top: 60%;
     background-image: linear-gradient(red, blue);
     border-style: solid;
     border-color: black;
     border-radius: 10px;
     border-width: 2px;
     width: 11%;
-    height:313%;
+    height: 282%;
     float: left;
     position: absolute;
     z-index: 1;
