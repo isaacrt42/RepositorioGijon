@@ -34,3 +34,60 @@ body {
     background-color: rgba(245, 49, 49, 0.457);
     border-radius: 10px;
 }
+
+
+.cajaDia {
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    background-color: rgb(57, 90, 255);
+    color: black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#Tabla{
+    border: solid;
+    background-color: rgb(255, 0, 0);
+    opacity: .8;
+    color: white;
+    font-size: 30px;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.cajaHoras{
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    border-width: 2px;
+    background-color: azure;
+    color: black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#Mañana {
+    text-align: center;
+    border-color: black;
+    border-style: groove;
+    border-width: 2px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 3px;
+}
+
+#Tarde {
+    text-align: center;
+    border-color: black;
+    border-style: groove;
+    border-width: 2px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 3px;
+}
